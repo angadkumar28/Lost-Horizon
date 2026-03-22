@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 660ab738bb8f85e4e915c908aefe0d4b
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - musicSource: {instanceID: 0}
+  - efxSource: {instanceID: 0}
+  - backgroundMusic: {instanceID: 0}
+  - jumpSound: {instanceID: 0}
+  - deathSound: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
