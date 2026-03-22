@@ -5,17 +5,26 @@
 ---
 
 ## 🎮 Gameplay Preview
-![Lost Horizon Gameplay](Screenshots/video.mp4)
+![Lost Horizon Gameplay]
+<div align="center">
+  <video src="Screenshots/video.mp4" width="800" controls muted autoplay loop>
+  </video>
+</div>
 
 ## 📸 Gallery
 
-| Main Menu | Gameplay | Gameplay |
-| :---: | :---: | :---: |
-| ![Screen1](Screenshots/ss1.png) | ![Screen2](Screenshots/ss2.png) | ![Screen3](Screenshots/ss3.png) |
-
-| Gameplay | Game Over | Project Structure |
-| :---: | :---: |
-| ![Screen4](Screenshots/ss4.png) | ![Screen5](Screenshots/ss5.png) | ![Screen5](Screenshots/ss6.png) |
+<table style="width:100%">
+  <tr>
+    <td align="center" width="33%"><img src="Screenshots/ss1.png" alt="Main Menu" /><br><b>Main Menu</b></td>
+    <td align="center" width="33%"><img src="Screenshots/ss2.png" alt="Gameplay" /><br><b>In-Game Action</b></td>
+    <td align="center" width="33%"><img src="Screenshots/ss3.png" alt="Game Over" /><br><b>Game Over</b></td>
+  </tr>
+  <tr>
+    <td align="center" width="33%"><img src="Screenshots/ss4.png" alt="Character" /><br><b>Game Over</b></td>
+    <td align="center" width="33%"><img src="Screenshots/ss5.png" alt="World" /><br><b>Game Over</b></td>
+    <td align="center" width="33%"><img src="Screenshots/ss6.png" alt="Assets" /><br><b>Asset Integration</b></td>
+  </tr>
+</table>
 
 ---
 
