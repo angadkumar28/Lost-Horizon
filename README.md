@@ -5,11 +5,10 @@
 ---
 
 ## 🎮 Gameplay Preview
-![Lost Horizon Gameplay]
-<div align="center">
-  <video src="Screenshots/video.mp4" width="800" controls muted autoplay loop>
+<p align="center">
+  <video src="Screenshots/video.mp4" width="100%" controls autoplay loop muted>
   </video>
-</div>
+</p>
 
 ## 📸 Gallery
 
@@ -17,10 +16,10 @@
   <tr>
     <td align="center" width="33%"><img src="Screenshots/ss1.png" alt="Main Menu" /><br><b>Main Menu</b></td>
     <td align="center" width="33%"><img src="Screenshots/ss2.png" alt="Gameplay" /><br><b>In-Game Action</b></td>
-    <td align="center" width="33%"><img src="Screenshots/ss3.png" alt="Game Over" /><br><b>Game Over</b></td>
+    <td align="center" width="33%"><img src="Screenshots/ss3.png" alt="Game Over" /><br><b>In-Game Action</b></td>
   </tr>
   <tr>
-    <td align="center" width="33%"><img src="Screenshots/ss4.png" alt="Character" /><br><b>Game Over</b></td>
+    <td align="center" width="33%"><img src="Screenshots/ss4.png" alt="Character" /><br><b>In-Game Action</b></td>
     <td align="center" width="33%"><img src="Screenshots/ss5.png" alt="World" /><br><b>Game Over</b></td>
     <td align="center" width="33%"><img src="Screenshots/ss6.png" alt="Assets" /><br><b>Asset Integration</b></td>
   </tr>
