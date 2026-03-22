@@ -6,7 +6,8 @@
 
 ## 🎮 Gameplay Preview
 <p align="center">
-  <video src="Screenshots/video.mp4" width="100%" controls autoplay loop muted>
+  <video src="https://github.com/angadkumar28/Lost-Horizon/raw/main/Screenshots/video.mp4" width="100%" controls="controls" autoplay="autoplay" loop="loop" muted="muted">
+   browser does not support the video tag.
   </video>
 </p>
 
