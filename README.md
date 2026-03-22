@@ -6,9 +6,7 @@
 
 ## 🎮 Gameplay Preview
 <p align="center">
-  <video src="https://github.com/angadkumar28/Lost-Horizon/raw/main/Screenshots/video.mp4" width="100%" controls="controls" autoplay="autoplay" loop="loop" muted="muted">
-   browser does not support the video tag.
-  </video>
+  <img src="Screenshots/video.gif" width="100%" alt="Lost Horizon Gameplay Preview">
 </p>
 
 ## 📸 Gallery
