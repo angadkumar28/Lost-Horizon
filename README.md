@@ -4,11 +4,6 @@
 
 ---
 
-## 🎮 Gameplay Preview
-<p align="center">
-  <img src="Screenshots/video.gif" width="100%" alt="Lost Horizon Gameplay Preview">
-</p>
-
 ## 📸 Gallery
 
 <table style="width:100%">
@@ -26,12 +21,25 @@
 
 ---
 
+## ⌨️ Controls for laptops
+| Action | Key |
+| :--- | :--- |
+| **Move Left** |  `Left Arrow` |
+| **Move Right** | `Right Arrow` |
+| **Jump** | `Space` |
+| **Slide** | `S` |
+
+---
+
 ## ✨ Features
 * **Dynamic Level Generation:** Procedurally spawning environments that keep the gameplay fresh and challenging.
 * **Universal Render Pipeline (URP):** Optimized for high-fidelity graphics and smooth performance across different hardware.
 * **Interactive UI:** Complete game loop including a Main Menu, Pause System, Countdown timer, and Game Over screens.
 * **Score Tracking:** Real-time coin collection and high-score management.
 * **Sound Management:** Integrated audio system for immersive background music and sound effects.
+
+---
+
 
 ## 🛠️ Technical Stack
 * **Engine:** Unity 6 (6000.0.5f1)
@@ -46,10 +54,16 @@
 * **`SoundManager.cs`**: A singleton-based audio controller to manage background music and SFX triggers across different game states.
 * **`MainMenuManager.cs`**: Controls the UI transitions between the main menu, gameplay, and game-over states.
 
+---
+
+
 ## 📂 Project Structure
 * `Assets/Scripts`: Contains the core logic for the LevelManager, PlayerController, and SoundManager.
 * `Assets/Scenes`: The main game world (SampleScene).
 * `Assets/Settings`: URP configuration files for optimized lighting and performance.
+
+---
+
 
 ## 🚀 Installation & Setup
 1.  **Clone the Repository:**
@@ -59,11 +73,14 @@
 2.  **Open in Unity:** Use Unity Hub to open the project folder using **Unity 6**.
 3.  **Play:** Open `Assets/Scenes/SampleScene.unity` and press the **Play** button!
 
+
 ---
+
 
 ## 📜 Credits & Attributions
 While the code and game logic were developed by me, the visual assets used in this project are from others talented creators.
 
 *All assets are used under their respective CC0 or Attribution licenses for educational/portfolio purposes.*
+
 
 ---
